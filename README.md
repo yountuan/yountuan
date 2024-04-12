@@ -59,6 +59,16 @@ I'm a Girl, Sister, Developer and Teacher!!
   <br><br>
 </div>
 
+⚡️Python, Django, FastAPI
+⚡️Selenium, OAuth, Swagger
+⚡️HTML, CSS
+⚡️SQL | PostgreSQL, MySQL, SQLAlchemy
+⚡️Docker, Redis
+⚡Heroku, Google Cloud, AWS
+⚡️Git, Github
+⚡️VSCode, Pycharm, Postman
+
+
 
 ---
 
