@@ -68,13 +68,11 @@ I'm a Girl, Sister, Developer and Teacher!!
     <div>⚡️Heroku, Google Cloud, AWS</div>
     <div>⚡️Git, Github</div>
     <div>⚡️VSCode, Pycharm, Postman</div>
-  </div>
 </div>
 
 ---
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
-
 <br><br>
 <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
